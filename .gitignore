@@ -9,5 +9,8 @@ dist/
 .vscode/
 .idea/
 
+### notes
+.note.txt
+
 ### Dependency directories
 node_modules/
