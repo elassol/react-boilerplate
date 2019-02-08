@@ -1,0 +1,13 @@
+### Project
+.DS_Store
+build/
+dist/
+*.log
+
+### IDE
+.settings/
+.vscode/
+.idea/
+
+### Dependency directories
+node_modules/
